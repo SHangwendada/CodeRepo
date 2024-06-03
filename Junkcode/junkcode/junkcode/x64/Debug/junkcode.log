@@ -1,0 +1,23 @@
+﻿  junkcode.cpp
+D:\算法训练\项目实现\junkcode\junkcode\junkcode.cpp(27,5): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+D:\算法训练\项目实现\junkcode\junkcode\junkcode.cpp(28,9): error C2065: “jz”: 未声明的标识符
+D:\算法训练\项目实现\junkcode\junkcode\junkcode.cpp(28,12): error C2146: 语法错误: 缺少“;”(在标识符“label1”的前面)
+D:\算法训练\项目实现\junkcode\junkcode\junkcode.cpp(28,12): error C2065: “label1”: 未声明的标识符
+D:\算法训练\项目实现\junkcode\junkcode\junkcode.cpp(29,9): error C2146: 语法错误: 缺少“;”(在标识符“jnz”的前面)
+D:\算法训练\项目实现\junkcode\junkcode\junkcode.cpp(29,9): error C2065: “jnz”: 未声明的标识符
+D:\算法训练\项目实现\junkcode\junkcode\junkcode.cpp(29,13): error C2146: 语法错误: 缺少“;”(在标识符“label1”的前面)
+D:\算法训练\项目实现\junkcode\junkcode\junkcode.cpp(29,13): error C2065: “label1”: 未声明的标识符
+D:\算法训练\项目实现\junkcode\junkcode\junkcode.cpp(30,9): error C2146: 语法错误: 缺少“;”(在标识符“_EMIT”的前面)
+D:\算法训练\项目实现\junkcode\junkcode\junkcode.cpp(30,9): error C2065: “_EMIT”: 未声明的标识符
+D:\算法训练\项目实现\junkcode\junkcode\junkcode.cpp(30,15): error C2143: 语法错误: 缺少“;”(在“常数”的前面)
+D:\算法训练\项目实现\junkcode\junkcode\junkcode.cpp(31,9): error C2146: 语法错误: 缺少“;”(在标识符“label1”的前面)
+D:\算法训练\项目实现\junkcode\junkcode\junkcode.cpp(32,5): error C2059: 语法错误:“}”
+D:\算法训练\项目实现\junkcode\junkcode\junkcode.cpp(33,5): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+D:\算法训练\项目实现\junkcode\junkcode\junkcode.cpp(35,9): error C2065: “call”: 未声明的标识符
+D:\算法训练\项目实现\junkcode\junkcode\junkcode.cpp(35,14): error C2146: 语法错误: 缺少“;”(在标识符“f1”的前面)
+D:\算法训练\项目实现\junkcode\junkcode\junkcode.cpp(35,14): error C2065: “f1”: 未声明的标识符
+D:\算法训练\项目实现\junkcode\junkcode\junkcode.cpp(36,9): error C2146: 语法错误: 缺少“;”(在标识符“f1”的前面)
+D:\算法训练\项目实现\junkcode\junkcode\junkcode.cpp(37,9): error C2065: “add”: 未声明的标识符
+D:\算法训练\项目实现\junkcode\junkcode\junkcode.cpp(37,17): error C2146: 语法错误: 缺少“;”(在标识符“byte”的前面)
+D:\算法训练\项目实现\junkcode\junkcode\junkcode.cpp(37,26): error C2065: “esp”: 未声明的标识符
+D:\算法训练\项目实现\junkcode\junkcode\junkcode.cpp(37,36): error C2059: 语法错误:“常数”
