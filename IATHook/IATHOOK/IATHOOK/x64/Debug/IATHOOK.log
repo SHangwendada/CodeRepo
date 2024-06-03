@@ -1,0 +1,24 @@
+﻿  IATHOOK.cpp
+D:\算法训练\项目实现\IATHOOK\IATHOOK\IATHOOK.cpp(14,55): warning C4311: “类型强制转换”: 从“HMODULE”到“DWORD”的指针截断
+D:\算法训练\项目实现\IATHOOK\IATHOOK\IATHOOK.cpp(14,55): warning C4302: “类型强制转换”: 从“HMODULE”到“DWORD”截断
+D:\算法训练\项目实现\IATHOOK\IATHOOK\IATHOOK.cpp(14,35): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_NT_HEADERS”
+D:\算法训练\项目实现\IATHOOK\IATHOOK\IATHOOK.cpp(16,78): warning C4311: “类型强制转换”: 从“HMODULE”到“DWORD”的指针截断
+D:\算法训练\项目实现\IATHOOK\IATHOOK\IATHOOK.cpp(16,78): warning C4302: “类型强制转换”: 从“HMODULE”到“DWORD”截断
+D:\算法训练\项目实现\IATHOOK\IATHOOK\IATHOOK.cpp(16,51): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_IMPORT_DESCRIPTOR”
+D:\算法训练\项目实现\IATHOOK\IATHOOK\IATHOOK.cpp(19,38): warning C4311: “类型强制转换”: 从“HMODULE”到“DWORD”的指针截断
+D:\算法训练\项目实现\IATHOOK\IATHOOK\IATHOOK.cpp(19,38): warning C4302: “类型强制转换”: 从“HMODULE”到“DWORD”截断
+D:\算法训练\项目实现\IATHOOK\IATHOOK\IATHOOK.cpp(19,29): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PDWORD”
+D:\算法训练\项目实现\IATHOOK\IATHOOK\IATHOOK.cpp(20,46): warning C4311: “类型强制转换”: 从“HMODULE”到“DWORD”的指针截断
+D:\算法训练\项目实现\IATHOOK\IATHOOK\IATHOOK.cpp(20,46): warning C4302: “类型强制转换”: 从“HMODULE”到“DWORD”截断
+D:\算法训练\项目实现\IATHOOK\IATHOOK\IATHOOK.cpp(20,37): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PDWORD”
+D:\算法训练\项目实现\IATHOOK\IATHOOK\IATHOOK.cpp(22,66): warning C4311: “类型强制转换”: 从“HMODULE”到“DWORD”的指针截断
+D:\算法训练\项目实现\IATHOOK\IATHOOK\IATHOOK.cpp(22,66): warning C4302: “类型强制转换”: 从“HMODULE”到“DWORD”截断
+D:\算法训练\项目实现\IATHOOK\IATHOOK\IATHOOK.cpp(22,34): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“char *”
+D:\算法训练\项目实现\IATHOOK\IATHOOK\IATHOOK.cpp(24,24): warning C4311: “类型强制转换”: 从“PDWORD”到“DWORD”的指针截断
+D:\算法训练\项目实现\IATHOOK\IATHOOK\IATHOOK.cpp(24,24): warning C4302: “类型强制转换”: 从“PDWORD”到“DWORD”截断
+D:\算法训练\项目实现\IATHOOK\IATHOOK\IATHOOK.cpp(63,23): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“DWORD *”
+D:\算法训练\项目实现\IATHOOK\IATHOOK\IATHOOK.cpp(69,43): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“void *”
+D:\算法训练\项目实现\IATHOOK\IATHOOK\IATHOOK.cpp(71,30): warning C4311: “类型强制转换”: 从“int (__cdecl *)(const void *,const void *,size_t)”到“DWORD”的指针截断
+D:\算法训练\项目实现\IATHOOK\IATHOOK\IATHOOK.cpp(71,30): warning C4302: “类型强制转换”: 从“int (__cdecl *)(const void *,const void *,size_t)”到“DWORD”截断
+D:\算法训练\项目实现\IATHOOK\IATHOOK\IATHOOK.cpp(75,11): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+  IATHOOK.vcxproj -> D:\算法训练\项目实现\IATHOOK\IATHOOK\x64\Debug\IATHOOK.exe
