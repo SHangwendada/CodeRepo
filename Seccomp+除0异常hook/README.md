@@ -1,4 +1,4 @@
-如果没有seccomp实现需要通过apt install 安装
+如果没有seccomp事先需要通过apt install 安装
 
 
 
