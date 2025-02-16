@@ -94,7 +94,6 @@ void __attribute__ ((constructor)) setup_seccomp() {
 }
 
 int main() {
-    // 触发除零（使用 volatile 防止优化）
     int a = 0, b = 0;
     safe_print("Please input a。\n");
     safe_scanf_int(&a);
